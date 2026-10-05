@@ -1,0 +1,12 @@
+google-api-python-client
+langdetect
+ipywidgets
+matplotlib
+nrclex
+psutil
+google-generativeai
+google-genai
+Pillow
+spacy
+scikit-learn
+numpy
